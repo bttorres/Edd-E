@@ -30,7 +30,7 @@ In this repository is a PDF of the schematic depicting Edd-E's electronic parts 
 
 ## Edd-E's Web App
 
-[Picture of the app](https://user-images.githubusercontent.com/55719532/191055793-7356e9bd-6d7e-492b-b6b2-d5128efd728e.jpeg)
+[Picture of Web App](https://user-images.githubusercontent.com/55719532/211341296-f740c9db-17cb-41c8-87d2-3f5b30d0fd1e.png)
 
 Once the user connects to Edd-E's Wifi, they can go to the IP address (192.168.4.1) in their web browser. The web app allows the user to control Edd-E. The user can drive him, move his head/neck around, and have him do pre-set actions.
 
