@@ -6,7 +6,7 @@ Edd-E is an ESP32 powered, controlled robot.
 
 ## The code
 
-The code in the "src/" folder is the code that he uses to function. It's in the ESP-IDF structure (regular C language). PlatformIO in Visual Studio Code was used for write it.
+The code in the "src/" folder is the code that he uses to function. It's in the Arduino structure (a modified C/C++ language). PlatformIO in Visual Studio Code was used to write it.
 
 ## Edd-E's Parts and Their Functions:
 
