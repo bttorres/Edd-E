@@ -12,7 +12,7 @@ The code in the "src/" folder is the code that he uses to function. It's in the 
 
 In this repository is a PDF of the schematic depicting Edd-E's electronic parts and how they are connected.
 * 1 ESP32-WROOM-32D dev board
-  * Recieves data from the ESP32-CAM board and controls the sensors and servos
+  * Recieves data from the web app and controls the sensors and servos
 * 1 ultrasonic sensor
   * Only serves an aesthetic purpose
 * 1 H-bridge motor driver
@@ -24,7 +24,7 @@ In this repository is a PDF of the schematic depicting Edd-E's electronic parts 
 * 1 ball caster
   * Assists with movement
 * 5 buck converters
-  * Step down the voltages from the batteries to power the, motors, motor driver, servos, and ESP32-WROOM-32D dev board
+  * Step down the voltages from the batteries to power the motors, motor driver, servos, and ESP32-WROOM-32D dev board
 * 1 2000mAh 11.1V Li-ion batteries
 
 
