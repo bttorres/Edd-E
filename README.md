@@ -2,7 +2,7 @@
 
 Edd-E is an ESP32 powered, controlled robot. 
 
-**************************** INSERT TIKTOK ****************************
+https://www.tiktok.com/@edd_e_?_t=8ZdLnheECR4&_r=1
 
 ## The code
 
